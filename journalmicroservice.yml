@@ -1,3 +1,2 @@
-spring:
-  application:
-    name: config-name-js
+server:
+  port: 9000
